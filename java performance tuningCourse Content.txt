@@ -1,0 +1,17 @@
+Set up a performance tuning environment.
+Tune the performance of a Java application at the language level.
+Monitor Java applications.
+Apply rigor to the task of performance tuning.
+Use various tools and mechanisms for monitoring, profiling and tuning Java applications.
+Apply best practices for performance testing.
+Tune garbage collection in a Java application.
+Monitor operating system performance on Solaris, Linux, and Windows
+Describe basic principles of performance
+Describe the operation of generational garbage collection
+List the garbage collectors available in Java including the G1 collector
+Monitor performance at the JVM and application level
+Monitor and analyze Java application performance using Java Mission Control and Flight Recorder
+Profile the performance of a Java application
+Tune garbage collection in a Java application
+Apply basic performance tuning principles to a Java application
+
