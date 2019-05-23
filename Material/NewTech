@@ -1,9 +1,15 @@
 AWS
 Elastic Search
 FarGate
-Gateway
+API Gateway
+AWS Route 53
+AWS Code Commit
+AWS Code Build
 I am
 EC2
+ELB
+BeanStalk
+S3
 Lambda
 Serverless deployment
 AWS Micro Service deployment
@@ -28,4 +34,6 @@ kubernate container script
 kubernate 
 
 MicroServes
-Design Patterns
+MicroSService-Design Patterns
+Hete
+Swagger
